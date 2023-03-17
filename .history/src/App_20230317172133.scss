@@ -1,0 +1,13 @@
+.btn-prev,
+.btn-next {
+  border-radius: 5px;
+  padding: 4px 15px;
+  outline: none;
+  //   border: none;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

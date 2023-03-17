@@ -1,0 +1,18 @@
+.btn-prev,
+.btn-next {
+  &:hover {
+    background-color: blue;
+  }
+  border-radius: 5px;
+  padding: 4px 15px;
+  outline: none;
+  //   border: none;
+}
+
+.pagination {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+}
